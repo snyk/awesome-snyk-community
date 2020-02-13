@@ -38,6 +38,11 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Eclipse Snyk plugin](https://marketplace.eclipse.org/content/snyk-vuln-scanner)
 - [VS Code Snyk](https://marketplace.visualstudio.com/items?itemName=pmbenjamin.vscode-snyk) - A Snyk plugin for Visual Studio Code
 
+## Monitoring
+
+- [Lunarway's Prometheus exporter for Snyk](https://github.com/lunarway/snyk_exporter) - Prometheus exporter for Snyk
+- [prometheus_snyk_exporter](https://github.com/dnanexus/prometheus_snyk_exporter) - Gathers security vulnerability metrics from snyk.io for use in Prometheus monitoring
+
 
 # License
 
