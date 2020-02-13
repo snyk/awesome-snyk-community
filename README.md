@@ -13,9 +13,31 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 # Contents
 - [Tools](#tools)
-- [Integrations](#integrations)
 - [Educational](#educational)
 - [Other](#other)
+
+# Tools
+
+## CLIs
+
+- [Snyk To HTML](https://github.com/snyk/snyk-to-html) - Snyk JSON output mapper to HTML report
+- [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+
+## SDKs
+
+- [PySnyk](https://github.com/snyk-labs/pysnyk) - A Python client for the Snyk API
+
+## Continuous Integration
+
+- [Circle CI Snyk Orb](https://circleci.com/orbs/registry/orb/snyk/snyk) - This orb uses Snyk to find, fix and monitor known vulnerabilities in your app dependencies and docker image
+- [Snyk in Codeship](https://documentation.codeship.com/general/integrations/snyk)
+
+## IDEs
+
+- [InteliJ Snyk plugin](https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanning) - Detect and fix security issues in your project
+- [Eclipse Snyk plugin](https://marketplace.eclipse.org/content/snyk-vuln-scanner)
+- [VS Code Snyk](https://marketplace.visualstudio.com/items?itemName=pmbenjamin.vscode-snyk) - A Snyk plugin for Visual Studio Code
+
 
 # License
 
