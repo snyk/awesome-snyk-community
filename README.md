@@ -22,6 +22,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 - [Snyk To HTML](https://github.com/snyk/snyk-to-html) - Snyk JSON output mapper to HTML report
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
+- [Security Report](https://www.npmjs.com/package/security-report) - a CLi to responsibly disclose a security issue to the [Snyk's security team](https://snyk.io/vulnerability-disclosure/)
 
 ## SDKs
 
