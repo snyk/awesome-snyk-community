@@ -21,8 +21,10 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 ## CLIs
 
 - [Snyk To HTML](https://github.com/snyk/snyk-to-html) - Snyk JSON output mapper to HTML report
+- [Snyk Issues To HTML](https://github.com/snyk-labs/snyk-issues-to-html) - This command line utility uses the Snyk API to export the list of all reported issues for an organization to a static HTML page.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
 - [Security Report](https://www.npmjs.com/package/security-report) - a CLi to responsibly disclose a security issue to the [Snyk's security team](https://snyk.io/vulnerability-disclosure/)
+- [Snyker](https://github.com/asos-craigmorten/snyker) - An opinionated CLI wrapper around Snyk for purging vulnerabilities from Node projects.
 
 ## SDKs
 
@@ -38,6 +40,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [InteliJ Snyk plugin](https://plugins.jetbrains.com/plugin/10972-snyk-vulnerability-scanning) - Detect and fix security issues in your project
 - [Eclipse Snyk plugin](https://marketplace.eclipse.org/content/snyk-vuln-scanner)
 - [VS Code Snyk](https://marketplace.visualstudio.com/items?itemName=pmbenjamin.vscode-snyk) - A Snyk plugin for Visual Studio Code
+- [Vuln Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) - Security Scanner to find and fix vulnerabilities in JavaScript and TypeScript.
 
 ## Monitoring
 
