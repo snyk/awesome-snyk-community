@@ -41,6 +41,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 - [Eclipse Snyk plugin](https://marketplace.eclipse.org/content/snyk-vuln-scanner)
 - [VS Code Snyk](https://marketplace.visualstudio.com/items?itemName=pmbenjamin.vscode-snyk) - A Snyk plugin for Visual Studio Code
 - [Vuln Cost](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) - Security Scanner to find and fix vulnerabilities in JavaScript and TypeScript.
+- [PyCharm Security plugin](https://github.com/tonybaloney/pycharm-security) - [Anthony Shaw](https://twitter.com/anthonypjshaw) author of PyCharm Security plugin [added support for Snyk](https://twitter.com/anthonypjshaw/status/1233535013897097216) for versions >= 1.13.0 of the plugin.
 
 ## Monitoring
 
