@@ -20,6 +20,7 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
 
 ## CLIs
 
+- [Snyk asdf plugin](https://github.com/nirfuchs/asdf-snyk) - asdf plugin for Snyk. Easily manage multiple versions of Snyk CLI in your runtime environment
 - [Snyk To HTML](https://github.com/snyk/snyk-to-html) - Snyk JSON output mapper to HTML report
 - [Snyk Issues To HTML](https://github.com/snyk-labs/snyk-issues-to-html) - This command line utility uses the Snyk API to export the list of all reported issues for an organization to a static HTML page.
 - [is-website-vulnerable](https://github.com/lirantal/is-website-vulnerable) - finds publicly known security vulnerabilities in a website's frontend JavaScript libraries
