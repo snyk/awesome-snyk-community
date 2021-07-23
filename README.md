@@ -65,6 +65,7 @@ Useful in for running snyk locally and for automating CI/CD workflows
 - [snyk-scm-refresh](https://github.com/snyk-tech-services/snyk-scm-refresh) - Keeps Snyk projects in sync with their associated Github or Github Enterprise repos
 - [helm-snyk](https://github.com/snyk-labs/helm-snyk) - Check for vulnerabilities in container images referenced in your helm charts
 - [Snyk User Sync Tool](https://github.com/snyk-tech-services/snyk-user-sync-tool) - sync user org memberships from an external source into Snyk
+- [snyk2spdx](https://www.npmjs.com/package/snyk2spdx) - Convert Snyk CLI output to [SPDX](https://spdx.dev/) format
 
 
 ## SDKs
