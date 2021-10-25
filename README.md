@@ -82,10 +82,9 @@ https://github.com/snyk-tech-services/snyk-api-ts-client
 
 ### Snyk API Helpers
 
-https://github.com/snyk-tech-services/snyk-api-import
-https://github.com/snyk-tech-services/snyk-request-manager
-
-
+- [API Import](https://github.com/snyk-tech-services/snyk-api-import) by Snyk Tech Services team
+- [Snyk Request Manager](https://github.com/snyk-tech-services/snyk-request-manager) by Snyk Tech Services team
+- [Collection of Snyk admin scripts](https://github.com/binkhq/snyk-tools) by [Bink](https://bink.com)
 
 ## IDE Plugins
 
