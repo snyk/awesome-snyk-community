@@ -67,7 +67,6 @@ Useful in for running snyk locally and for automating CI/CD workflows
 - [Snyk User Sync Tool](https://github.com/snyk-tech-services/snyk-user-sync-tool) - sync user org memberships from an external source into Snyk
 - [Snyk History Scanner](https://github.com/cjheppell/snyk-history-scanner/) - A very thin wrapper around the Snyk CLI tool to make it possible to monitor specific versioned releases of software
 
-
 ## SDKs
 
 ### Python
