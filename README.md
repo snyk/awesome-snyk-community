@@ -54,7 +54,7 @@ Useful in for running snyk locally and for automating CI/CD workflows
 
 - [Snyk CLI](https://github.com/snyk/snyk) - The Snyk CLI
 - [Snyk asdf plugin](https://github.com/nirfuchs/asdf-snyk) - asdf plugin for Snyk. Easily manage multiple versions of Snyk CLI in your runtime environment
-- [Snyker](https://github.com/asos-craigmorten/snyker) - An opinionated CLI wrapper around Snyk for purging vulnerabilities from Node projects.
+- [Snyker](https://github.com/asos/snyker) - An opinionated CLI wrapper around Snyk for purging vulnerabilities from Node projects.
 - [snyk-to-html](https://github.com/snyk/snyk-to-html) - Create template-based HTML artifacts from Snyk CLI JSON output; useful for generating build artifacts
 - [snyk-issues-to-html](https://github.com/snyk-labs/snyk-issues-to-html) - This command line utility uses the Snyk API to export the list of all reported issues for a Snyk organization to a static HTML page.
 - [snyk-disallow](https://github.com/snyk-tech-services/snyk-disallow) - Create and manage a list of unwanted dependencies against which you can test your application with Snyk
@@ -65,8 +65,8 @@ Useful in for running snyk locally and for automating CI/CD workflows
 - [snyk-scm-refresh](https://github.com/snyk-tech-services/snyk-scm-refresh) - Keeps Snyk projects in sync with their associated Github or Github Enterprise repos
 - [helm-snyk](https://github.com/snyk-labs/helm-snyk) - Check for vulnerabilities in container images referenced in your helm charts
 - [Snyk User Sync Tool](https://github.com/snyk-tech-services/snyk-user-sync-tool) - sync user org memberships from an external source into Snyk
+- [Snyk History Scanner](https://github.com/cjheppell/snyk-history-scanner/) - A very thin wrapper around the Snyk CLI tool to make it possible to monitor specific versioned releases of software
 - [snyk2spdx](https://www.npmjs.com/package/snyk2spdx) - Convert Snyk CLI output to [SPDX](https://spdx.dev/) format
-
 
 ## SDKs
 
@@ -83,10 +83,9 @@ https://github.com/snyk-tech-services/snyk-api-ts-client
 
 ### Snyk API Helpers
 
-https://github.com/snyk-tech-services/snyk-api-import
-https://github.com/snyk-tech-services/snyk-request-manager
-
-
+- [API Import](https://github.com/snyk-tech-services/snyk-api-import) by Snyk Tech Services team
+- [Snyk Request Manager](https://github.com/snyk-tech-services/snyk-request-manager) by Snyk Tech Services team
+- [Collection of Snyk admin scripts](https://github.com/binkhq/snyk-tools) by [Bink](https://bink.com)
 
 ## IDE Plugins
 
