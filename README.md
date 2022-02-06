@@ -54,7 +54,7 @@ Useful in for running snyk locally and for automating CI/CD workflows
 
 - [Snyk CLI](https://github.com/snyk/snyk) - The Snyk CLI
 - [Snyk asdf plugin](https://github.com/nirfuchs/asdf-snyk) - asdf plugin for Snyk. Easily manage multiple versions of Snyk CLI in your runtime environment
-- [Snyker](https://github.com/asos-craigmorten/snyker) - An opinionated CLI wrapper around Snyk for purging vulnerabilities from Node projects.
+- [Snyker](https://github.com/asos/snyker) - An opinionated CLI wrapper around Snyk for purging vulnerabilities from Node projects.
 - [snyk-to-html](https://github.com/snyk/snyk-to-html) - Create template-based HTML artifacts from Snyk CLI JSON output; useful for generating build artifacts
 - [snyk-issues-to-html](https://github.com/snyk-labs/snyk-issues-to-html) - This command line utility uses the Snyk API to export the list of all reported issues for a Snyk organization to a static HTML page.
 - [snyk-disallow](https://github.com/snyk-tech-services/snyk-disallow) - Create and manage a list of unwanted dependencies against which you can test your application with Snyk
