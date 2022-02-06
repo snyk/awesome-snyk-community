@@ -66,6 +66,7 @@ Useful in for running snyk locally and for automating CI/CD workflows
 - [helm-snyk](https://github.com/snyk-labs/helm-snyk) - Check for vulnerabilities in container images referenced in your helm charts
 - [Snyk User Sync Tool](https://github.com/snyk-tech-services/snyk-user-sync-tool) - sync user org memberships from an external source into Snyk
 - [Snyk History Scanner](https://github.com/cjheppell/snyk-history-scanner/) - A very thin wrapper around the Snyk CLI tool to make it possible to monitor specific versioned releases of software
+- [snyk2spdx](https://www.npmjs.com/package/snyk2spdx) - Convert Snyk CLI output to [SPDX](https://spdx.dev/) format
 
 ## SDKs
 
