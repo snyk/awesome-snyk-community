@@ -68,6 +68,7 @@ Useful in for running snyk locally and for automating CI/CD workflows
 - [Snyk History Scanner](https://github.com/cjheppell/snyk-history-scanner/) - A very thin wrapper around the Snyk CLI tool to make it possible to monitor specific versioned releases of software
 - [snyk2spdx](https://www.npmjs.com/package/snyk2spdx) - Convert Snyk CLI output to [SPDX](https://spdx.dev/) format
 - [snyk-cleanup-archived-github-repositories](https://github.com/Financial-Times/snyk-cleanup-archived-repositories) - Remove archived repositories from Snyk
+- [snyk-watcher-lambda](https://github.com/granular-oss/snyk-watcher-lambda) - snyk-watcher is triggered via a Gitlab System Hook which calls an AWS Lambda via AWS API Gateway. Keeps Snyk projects in sync with their associated Gitlab Enterprise repos
 
 ## SDKs
 
