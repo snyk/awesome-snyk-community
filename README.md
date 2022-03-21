@@ -35,6 +35,14 @@ _List inspired by the [awesome](https://github.com/sindresorhus/awesome) list th
     - [Issue & Project Management](#issue--project-management)
       - [Jira](#jira)
     - [Monitoring & Observability](#monitoring--observability)
+   - [Videos](#videos)
+   - [Articles](#articles)
+   - [Books](#books)
+   - [Slides](#slides)
+   - [Labs](#labs)
+   - [Podcasts](#podcasts)
+   - [Trainings](#trainings)
+   - [Community](#community)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -135,6 +143,51 @@ https://github.com/snyk-tech-services/jira-tickets-for-new-vulns
 - [prometheus_snyk_exporter](https://github.com/dnanexus/prometheus_snyk_exporter) - Gathers security vulnerability metrics from snyk.io for use in Prometheus monitoring
 https://github.com/snyk-tech-services/backstage-plugin-snyk
 
+## Videos
+
+- [An Introduction to Snyk - Open Source Security](https://www.youtube.com/watch?v=4ng5usM6fd8&t=4s)
+- [HackTheBox CA CTF - Using Snyk to Find & Fix Vulnerabilities](https://www.youtube.com/watch?v=tyL3Ouais1c)
+- [Find Vulnerabilities In Your Code With Snyk](https://www.youtube.com/watch?v=1N6VBHMoPsw)
+- [Open Source Vulnerability Scans | Snyk | #6MinuteSaturdays | Tech Primers](https://www.youtube.com/watch?v=GawosSlb0xk)
+
+## Articles
+
+- [Q&A with Snyk on security, npm and the Node.js Foundation](https://medium.com/hackernoon/q-a-with-snyk-on-security-npm-and-the-node-js-foundation-39a035c33120)
+- [Use Snyk security policies to prioritize fixes more efficiently](https://snyk.io/blog/snyk-security-policies/)
+- [How to publish Node.js Docker images to Docker Hub registry using GitHub Actions](https://snyk.io/blog/how-to-publish-node-js-docker-images-to-docker-hub-registry-using-github-actions/)
+- [This Is How We Use Snyk to Protect Our Open-Source Projects from *Bad* Dependencies](https://eldadfux.medium.com/this-is-how-we-use-snyk-to-protect-our-open-source-projects-from-evil-dependencies-6ee258ca5815)
+- [Angular vs React: the security risk of indirect dependencies](https://medium.com/@lirantal/angular-vs-react-the-security-risk-of-indirect-dependencies-snyk-af83b24d429e)
+- [Snyk Security Scan Installation and Configuration in Azure Pipelines — DevOps Roadmap](https://medium.com/outsource-tech/snyk-security-scan-installation-and-configuration-in-azure-pipelines-b0e1ec7c6800)
+
+## Books
+
+- [Securing Open Source Libraries](https://www.oreilly.com/library/view/securing-open-source/9781491996980/)
+- [Cloud Native Application Security](https://www.oreilly.com/library/view/cloud-native-application/9781098105631/)
+- [Continuous Delivery for Infrastructure as Code](https://resources.snyk.io/c/iac-book-continuous-?x=iiH-UX)
+
+## Slides
+
+- [A New View of Your Application Security Program with Snyk and ThreadFix](https://www.slideshare.net/denimgroup/a-new-view-of-your-application-security-program-with-snyk-and-threadfix)
+- [AWS live hack: Atlassian + Snyk OSS on AWS](https://www.slideshare.net/EricSmalling1/aws-live-hack-atlassian-snyk-oss-on-aws)
+
+## Labs
+
+- [Learn to scan Docker Containers with Snyk](https://www.katacoda.com/hackingtechnology/scenarios/snyk-scan)
+
+## Podcasts
+
+- [Apple Podcasts](https://podcasts.apple.com/gb/podcast/the-secure-developer/id1156317989)
+- [Spotify](https://open.spotify.com/show/0NX5cgorayOLBM6oc9zExW)
+
+## Trainings
+
+- [Snyk Learn](https://learn.snyk.io/)
+
+## Community
+
+- [Discord](https://discord.com/invite/WEV6pzq2C3)
+- [Twitter](https://twitter.com/snyksec)
+- [Snyk Ambassador Program](https://snyk.io/snyk-ambassadors/)
 
 
 # License
